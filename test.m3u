@@ -1,5 +1,6 @@
 #EXTM3U
 
+===beIN 1===
 
 
 #EXTINF:-1   group-title="beIN 1" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-1.png",beIN 1 166
@@ -173,6 +174,361 @@ http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1348093&e
 #EXTINF:-1   group-title="beIN 1" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-1.png",beIN 1 300
 http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:19:FE&stream=1348093&extension=ts
 
+
+===beIN 2===
+
+
+
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 166
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:01:6C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 167
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:DC:1E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 168
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:37:25:55&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 170
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A1:5C:50&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 172
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:3A:33&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 178
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:4F:EC:83&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 179
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:8C:11:9E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 181
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:D4:33:B4&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 183
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:77:23&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 184
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:4C:DC&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 187
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:79:2E:7F&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 188
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B4:D3:64&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 190
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:7E:C8:2C&&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 191
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:B6:02&&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 193
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C9:95:F1&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 194
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:E0:A8:5C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 195
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:C8:11&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 196
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:9D:E2&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 197
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BD:18:02&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 198
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:AF&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 199
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:C4&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 200
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:00:23:2E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 202
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:AB:92&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 203
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:21:FA&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 204
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C6:B9:4E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 205
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:C3:94&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 206
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CB:66:D5&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 207
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:22:EF&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 208
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:CA:78&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 209
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:F5:71:4A&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 213
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:DB:2A&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 215
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:88:BD:20&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 217
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:1C:03:EB&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 218
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:78:95:5F&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 219
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:3B:F9:9D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 220
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:56:13&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 222
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CD:DE:B5&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 224
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:54:0D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 225
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A0:DC:63&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 226
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:52:0B:2E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 227
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:B3:5D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 228
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:9F:C3&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 231
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:33:9E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 232
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:BE:15:D2&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 238
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:68:7A:9A&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 241
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:AD:5F:16&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 243
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:49:B7&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 244
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:3A:8B&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 245
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:1A:52&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 246
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:33:00:D0&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 247
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:8F:1B&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 249
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:23:09&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 250
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:0F:17&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 251
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:7F:33&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 252
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:04:28&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 257
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:56:72&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 258
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:35:38:1D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 259
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B1:00:36&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 263
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:94:c9:3b&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 264
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4C:15:83&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 265
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:48:58:08&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 267
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:3B:C5&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 269
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:33:AA:2A&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 271
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:52:30&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 272
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:8A:32&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 274
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:5A:F0&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 277
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:50:0B:68&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 278
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:CE:1C:36&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 279
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3D:50:01&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 280
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:19:EA:7D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 281
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:34:71:F3&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 282
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:03:8B:DA&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 286
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:32:17:4C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 287
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:35:03:4F&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 288
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:13:F8&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 290
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:F6:6D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 291
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:42:F5&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 293
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:38:37:86&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 294
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:93:80&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 295
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:86:67&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 296
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:56:2C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 297
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:23:1B&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 298
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:3F:EE&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 299
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 2" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-2.png",beIN 2 300
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:19:FE&stream=1348103&extension=ts
+
+
+
+
+
+
+
+===beIN 3===
+
+
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 166
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:01:6C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 167
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:DC:1E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 168
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:37:25:55&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 170
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A1:5C:50&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 172
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:3A:33&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 178
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:4F:EC:83&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 179
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:8C:11:9E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 181
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:D4:33:B4&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 183
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:77:23&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 184
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:4C:DC&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 187
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:79:2E:7F&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 188
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B4:D3:64&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 190
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:7E:C8:2C&&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 191
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:B6:02&&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 193
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C9:95:F1&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 194
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:E0:A8:5C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 195
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:C8:11&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 196
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:9D:E2&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 197
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BD:18:02&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 198
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:AF&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 199
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:C4&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 200
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:00:23:2E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 202
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:AB:92&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 203
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:21:FA&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 204
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C6:B9:4E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 205
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:C3:94&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 206
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CB:66:D5&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 207
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:22:EF&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 208
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:CA:78&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 209
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:F5:71:4A&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 213
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:DB:2A&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 215
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:88:BD:20&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 217
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:1C:03:EB&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 218
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:78:95:5F&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 219
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:3B:F9:9D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 220
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:56:13&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 222
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CD:DE:B5&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 224
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:54:0D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 225
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A0:DC:63&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 226
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:52:0B:2E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 227
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:B3:5D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 228
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:9F:C3&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 231
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:33:9E&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 232
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:BE:15:D2&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 238
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:68:7A:9A&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 241
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:AD:5F:16&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 243
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:49:B7&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 244
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:3A:8B&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 245
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:1A:52&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 246
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:33:00:D0&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 247
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:8F:1B&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 249
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:23:09&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 250
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:0F:17&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 251
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:7F:33&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 252
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:04:28&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 257
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:56:72&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 258
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:35:38:1D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 259
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B1:00:36&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 263
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:94:c9:3b&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 264
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4C:15:83&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 265
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:48:58:08&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 267
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:3B:C5&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 269
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:33:AA:2A&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 271
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:52:30&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 272
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:8A:32&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 274
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:5A:F0&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 277
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:50:0B:68&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 278
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:CE:1C:36&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 279
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3D:50:01&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 280
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:19:EA:7D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 281
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:34:71:F3&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 282
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:03:8B:DA&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 286
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:32:17:4C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 287
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:35:03:4F&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 288
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:13:F8&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 290
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:F6:6D&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 291
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:42:F5&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 293
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:38:37:86&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 294
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:93:80&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 295
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:86:67&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 296
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:56:2C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 297
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:23:1B&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 298
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:3F:EE&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 299
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1348103&extension=ts
+#EXTINF:-1   group-title="beIN 3" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/bein-3.png",beIN 3 300
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:19:FE&stream=1348103&extension=ts
 
 
 
@@ -353,6 +709,903 @@ http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:3F:EE&stream=1032487&e
 http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1032487&extension=ts
 #EXTINF:-1   group-title="NOW Premier 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW Premier 300
 http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032487&extension=ts
+
+
+
+===NOW Premier 2===
+
+
+
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 166
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:01:6C&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 167
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:DC:1E&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 168
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:37:25:55&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 170
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A1:5C:50&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 172
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:3A:33&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 178
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:4F:EC:83&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 179
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:8C:11:9E&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 181
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:D4:33:B4&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 183
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:77:23&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 184
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:4C:DC&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 187
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:79:2E:7F&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 188
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B4:D3:64&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 190
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:7E:C8:2C&&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 191
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:B6:02&&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 193
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C9:95:F1&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 194
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:E0:A8:5C&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 195
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:C8:11&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 196
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:9D:E2&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 197
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BD:18:02&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 198
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:AF&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 199
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:C4&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 200
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:00:23:2E&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 202
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:AB:92&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 203
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:21:FA&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 204
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C6:B9:4E&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 205
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:C3:94&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 206
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CB:66:D5&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 207
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:22:EF&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 208
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:CA:78&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 209
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:F5:71:4A&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 213
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:DB:2A&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 215
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:88:BD:20&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 217
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:1C:03:EB&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 218
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:78:95:5F&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 219
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:3B:F9:9D&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 220
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:56:13&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 222
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CD:DE:B5&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 224
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:54:0D&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 225
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A0:DC:63&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 226
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:52:0B:2E&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 227
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:B3:5D&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 228
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:9F:C3&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 231
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:33:9E&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 232
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:BE:15:D2&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 238
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:68:7A:9A&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 241
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:AD:5F:16&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 243
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:49:B7&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 244
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:3A:8B&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 245
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:1A:52&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 246
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:33:00:D0&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 247
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:8F:1B&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 249
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:23:09&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 250
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:0F:17&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 251
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:7F:33&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 252
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:04:28&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 257
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:56:72&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 258
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:35:38:1D&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 259
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B1:00:36&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 263
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:94:c9:3b&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 264
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4C:15:83&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 265
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:48:58:08&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 267
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:3B:C5&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 269
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:33:AA:2A&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 271
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:52:30&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 272
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:8A:32&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 274
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:5A:F0&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 277
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:50:0B:68&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 278
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:CE:1C:36&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 279
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3D:50:01&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 280
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:19:EA:7D&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 281
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:34:71:F3&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 282
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:03:8B:DA&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 286
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:32:17:4C&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 287
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:35:03:4F&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 288
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:13:F8&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 290
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:F6:6D&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 291
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:42:F5&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 293
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:38:37:86&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 294
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:93:80&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 295
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:86:67&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 296
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:56:2C&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 297
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:23:1B&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 298
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:3F:EE&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 299
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1032486&extension=ts
+#EXTINF:-1   group-title="NOW Premier 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW Premier 2 300
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032486&extension=ts
+
+
+
+
+
+
+
+===NOW Premier 3===
+
+
+
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 166
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:01:6C&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 167
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:DC:1E&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 168
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:37:25:55&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 170
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A1:5C:50&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 172
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:3A:33&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 178
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:4F:EC:83&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 179
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:8C:11:9E&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 181
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:D4:33:B4&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 183
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:77:23&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 184
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:4C:DC&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 187
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:79:2E:7F&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 188
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B4:D3:64&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 190
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:7E:C8:2C&&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 191
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:B6:02&&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 193
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C9:95:F1&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 194
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:E0:A8:5C&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 195
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:C8:11&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 196
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:9D:E2&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 197
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BD:18:02&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 198
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:AF&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 199
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:C4&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 200
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:00:23:2E&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 202
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:AB:92&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 203
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:21:FA&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 204
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C6:B9:4E&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 205
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:C3:94&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 206
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CB:66:D5&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 207
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:22:EF&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 208
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:CA:78&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 209
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:F5:71:4A&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 213
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:DB:2A&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 215
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:88:BD:20&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 217
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:1C:03:EB&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 218
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:78:95:5F&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 219
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:3B:F9:9D&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 220
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:56:13&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 222
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CD:DE:B5&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 224
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:54:0D&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 225
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A0:DC:63&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 226
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:52:0B:2E&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 227
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:B3:5D&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 228
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:9F:C3&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 231
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:33:9E&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 232
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:BE:15:D2&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 238
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:68:7A:9A&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 241
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:AD:5F:16&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 243
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:49:B7&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 244
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:3A:8B&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 245
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:1A:52&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 246
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:33:00:D0&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 247
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:8F:1B&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 249
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:23:09&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 250
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:0F:17&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 251
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:7F:33&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 252
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:04:28&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 257
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:56:72&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 258
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:35:38:1D&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 259
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B1:00:36&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 263
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:94:c9:3b&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 264
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4C:15:83&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 265
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:48:58:08&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 267
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:3B:C5&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 269
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:33:AA:2A&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 271
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:52:30&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 272
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:8A:32&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 274
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:5A:F0&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 277
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:50:0B:68&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 278
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:CE:1C:36&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 279
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3D:50:01&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 280
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:19:EA:7D&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 281
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:34:71:F3&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 282
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:03:8B:DA&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 286
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:32:17:4C&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 287
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:35:03:4F&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 288
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:13:F8&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 290
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:F6:6D&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 291
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:42:F5&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 293
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:38:37:86&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 294
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:93:80&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 295
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:86:67&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 296
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:56:2C&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 297
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:23:1B&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 298
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:3F:EE&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 299
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1032485&extension=ts
+#EXTINF:-1   group-title="NOW Premier 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW Premier 3 300
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032485&extension=ts
+
+
+
+===Hub Premier 1===
+
+
+
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 166
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:01:6C&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 167
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:DC:1E&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 168
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:37:25:55&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 170
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A1:5C:50&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 172
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:3A:33&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 178
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:4F:EC:83&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 179
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:8C:11:9E&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 181
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:D4:33:B4&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 183
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:77:23&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 184
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:4C:DC&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 187
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:79:2E:7F&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 188
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B4:D3:64&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 190
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:7E:C8:2C&&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 191
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:B6:02&&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 193
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C9:95:F1&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 194
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:E0:A8:5C&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 195
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:C8:11&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 196
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:9D:E2&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 197
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BD:18:02&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 198
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:AF&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 199
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:C4&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 200
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:00:23:2E&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 202
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:AB:92&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 203
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:21:FA&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 204
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C6:B9:4E&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 205
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:C3:94&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 206
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CB:66:D5&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 207
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:22:EF&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 208
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:CA:78&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 209
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:F5:71:4A&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 213
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:DB:2A&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 215
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:88:BD:20&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 217
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:1C:03:EB&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 218
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:78:95:5F&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 219
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:3B:F9:9D&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 220
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:56:13&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 222
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CD:DE:B5&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 224
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:54:0D&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 225
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A0:DC:63&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 226
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:52:0B:2E&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 227
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:B3:5D&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 228
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:9F:C3&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 231
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:33:9E&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 232
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:BE:15:D2&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 238
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:68:7A:9A&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 241
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:AD:5F:16&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 243
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:49:B7&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 244
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:3A:8B&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 245
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:1A:52&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 246
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:33:00:D0&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 247
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:8F:1B&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 249
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:23:09&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 250
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:0F:17&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 251
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:7F:33&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 252
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:04:28&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 257
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:56:72&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 258
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:35:38:1D&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 259
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B1:00:36&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 263
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:94:c9:3b&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 264
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4C:15:83&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 265
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:48:58:08&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 267
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:3B:C5&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 269
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:33:AA:2A&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 271
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:52:30&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 272
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:8A:32&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 274
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:5A:F0&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 277
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:50:0B:68&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 278
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:CE:1C:36&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 279
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3D:50:01&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 280
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:19:EA:7D&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 281
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:34:71:F3&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 282
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:03:8B:DA&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 286
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:32:17:4C&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 287
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:35:03:4F&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 288
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:13:F8&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 290
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:F6:6D&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 291
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:42:F5&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 293
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:38:37:86&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 294
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:93:80&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 295
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:86:67&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 296
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:56:2C&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 297
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:23:1B&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 298
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:3F:EE&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 299
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1032529&extension=ts
+#EXTINF:-1   group-title="Hub Premier 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", Hub Premier 1 300
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032529&extension=ts
+
+
+
+===Hub Premier 2===
+
+
+
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 166
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:01:6C&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 167
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:DC:1E&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 168
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:37:25:55&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 170
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A1:5C:50&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 172
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:3A:33&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 178
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:4F:EC:83&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 179
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:8C:11:9E&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 181
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:D4:33:B4&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 183
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:77:23&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 184
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:4C:DC&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 187
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:79:2E:7F&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 188
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B4:D3:64&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 190
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:7E:C8:2C&&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 191
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:B6:02&&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 193
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C9:95:F1&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 194
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:E0:A8:5C&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 195
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:C8:11&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 196
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:9D:E2&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 197
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BD:18:02&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 198
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:AF&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 199
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:C4&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 200
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:00:23:2E&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 202
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:AB:92&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 203
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:21:FA&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 204
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C6:B9:4E&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 205
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:C3:94&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 206
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CB:66:D5&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 207
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:22:EF&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 208
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:CA:78&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 209
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:F5:71:4A&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 213
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:DB:2A&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 215
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:88:BD:20&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 217
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:1C:03:EB&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 218
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:78:95:5F&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 219
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:3B:F9:9D&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 220
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:56:13&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 222
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CD:DE:B5&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 224
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:54:0D&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 225
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A0:DC:63&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 226
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:52:0B:2E&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 227
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:B3:5D&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 228
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:9F:C3&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 231
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:33:9E&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 232
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:BE:15:D2&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 238
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:68:7A:9A&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 241
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:AD:5F:16&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 243
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:49:B7&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 244
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:3A:8B&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 245
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:1A:52&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 246
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:33:00:D0&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 247
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:8F:1B&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 249
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:23:09&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 250
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:0F:17&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 251
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:7F:33&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 252
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:04:28&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 257
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:56:72&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 258
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:35:38:1D&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 259
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B1:00:36&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 263
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:94:c9:3b&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 264
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4C:15:83&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 265
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:48:58:08&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 267
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:3B:C5&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 269
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:33:AA:2A&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 271
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:52:30&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 272
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:8A:32&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 274
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:5A:F0&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 277
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:50:0B:68&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 278
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:CE:1C:36&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 279
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3D:50:01&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 280
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:19:EA:7D&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 281
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:34:71:F3&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 282
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:03:8B:DA&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 286
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:32:17:4C&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 287
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:35:03:4F&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 288
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:13:F8&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 290
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:F6:6D&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 291
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:42:F5&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 293
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:38:37:86&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 294
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:93:80&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 295
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:86:67&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 296
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:56:2C&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 297
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:23:1B&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 298
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:3F:EE&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 299
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1032528&extension=ts
+#EXTINF:-1   group-title="Hub Premier 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", Hub Premier 2 300
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032528&extension=ts
+
+
+
+===Hub Premier 3===
+
+
+
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 166
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:01:6C&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 167
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:DC:1E&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 168
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:37:25:55&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 170
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A1:5C:50&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 172
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:3A:33&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 178
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:4F:EC:83&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 179
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:8C:11:9E&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 181
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:D4:33:B4&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 183
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:77:23&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 184
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:4C:DC&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 187
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:79:2E:7F&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 188
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B4:D3:64&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 190
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:7E:C8:2C&&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 191
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:B6:02&&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 193
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C9:95:F1&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 194
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:E0:A8:5C&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 195
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:C8:11&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 196
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:9D:E2&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 197
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BD:18:02&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 198
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:AF&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 199
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BA:9E:C4&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 200
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:00:23:2E&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 202
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:BF:AB:92&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 203
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:21:FA&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 204
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C6:B9:4E&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 205
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:C3:94&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 206
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CB:66:D5&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 207
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:18:22:EF&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 208
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B5:CA:78&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 209
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:F5:71:4A&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 213
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:DB:2A&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 215
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:88:BD:20&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 217
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:1C:03:EB&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 218
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:78:95:5F&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 219
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:3B:F9:9D&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 220
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:C3:56:13&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 222
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:CD:DE:B5&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 224
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:54:0D&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 225
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:A0:DC:63&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 226
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:52:0B:2E&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 227
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:B3:5D&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 228
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:9F:C3&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 231
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:49:33:9E&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 232
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:BE:15:D2&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 238
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:68:7A:9A&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 241
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:AD:5F:16&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 243
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:49:B7&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 244
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:3A:8B&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 245
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:45:1A:52&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 246
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:33:00:D0&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 247
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:8F:1B&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 249
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:23:09&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 250
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:0F:17&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 251
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:7F:33&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 252
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:04:28&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 257
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B6:56:72&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 258
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:35:38:1D&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 259
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:B1:00:36&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 263
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:94:c9:3b&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 264
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4C:15:83&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 265
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:48:58:08&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 267
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1D:3B:C5&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 269
+http://troublesupport.my.to/play/live.php?mac=00:1A:79:33:AA:2A&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 271
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:52:30&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 272
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:8A:32&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 274
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:5A:F0&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 277
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:50:0B:68&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 278
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:CE:1C:36&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 279
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3D:50:01&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 280
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:19:EA:7D&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 281
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:34:71:F3&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 282
+http://troublesupport.my.to/play/live.php?mac=A0:BB:3E:03:8B:DA&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 286
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:32:17:4C&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 287
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:35:03:4F&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 288
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:41:13:F8&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 290
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:F6:6D&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 291
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:3E:42:F5&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 293
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:38:37:86&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 294
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:93:80&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 295
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:18:86:67&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 296
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:1C:56:2C&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 297
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F8:23:1B&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 298
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F0:3F:EE&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 299
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:F9:B7:5C&stream=1032527&extension=ts
+#EXTINF:-1   group-title="Hub Premier 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3 300
+http://troublesupport.my.to/play/live.php?mac=00:1B:79:4A:19:FE&stream=1032527&extension=ts
+
+
+
+
+
+
+
+
 
 
 
